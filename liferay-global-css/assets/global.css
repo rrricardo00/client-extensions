@@ -1,3 +1,7 @@
+body{
+background-color: red;
+}
+
 .portlet-cp-sorting {
 	width: fit-content;
 }
